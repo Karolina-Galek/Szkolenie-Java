@@ -1,0 +1,2 @@
+# Szkolenie-Java
+zadanie
